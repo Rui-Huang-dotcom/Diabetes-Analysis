@@ -1,9 +1,9 @@
-# Pima Indians Diabetes Database Analytics
+# Diabetes Database Analytics
 
-## Overview
+## 📝 Overview
 This project involves the analysis of the Pima Indians Diabetes Database sourced from Kaggle. The main tasks include data preprocessing, exploration data analysis through various visualizations such as histograms, boxplots, and data modelling to predict whether or not a patient has diabetes. 
 
-## Analysis Highlights
+## 👨‍💻 Analysis Highlights
 - Cleaned and preprocessed the dataset for effective analysis.
 - Utilized various data visualization techniques including histograms, boxplots, and correlation plots.
 - Implemented machine learning models including Logistic Regression, Decision Tree, Random Forest, and KNN.
@@ -12,12 +12,12 @@ This project involves the analysis of the Pima Indians Diabetes Database sourced
 ## 🔧 Tools Used
 - R
 
-## Skills Demonstrated
+## 📌 Skills Demonstrated
 - Data Manipulation
 - Data Visualization
 - Case Studies
 
-## Screenshots
+## 📃 Screenshots
 Here are some visuals from the project:
 
 ![DiabetesPedigreeFunction Histogram Plot](https://github.com/Rui-Huang-dotcom/Diabetes-Analysis/blob/main/image/__results___15_1.png)
