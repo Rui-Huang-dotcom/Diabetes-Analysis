@@ -20,16 +20,11 @@ This project involves the analysis of the Pima Indians Diabetes Database sourced
 ## Screenshots
 Here are some visuals from the project:
 
-![Histogram](/images/histogram.png)
-*Histogram showing the distribution of a particular feature.*
+![DiabetesPedigreeFunction Histogram Plot](https://github.com/Rui-Huang-dotcom/Diabetes-Analysis/blob/main/image/__results___15_1.png)
 
-![Decision Tree](/images/decision_tree.png)
-*Decision Tree visualization for model interpretation.*
 
-## How to Run
-To run the project locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Install the required dependencies.
-3. Run the main script: `python main.py`
+![Correlation Plot](https://github.com/Rui-Huang-dotcom/Diabetes-Analysis/blob/main/image/__results___41_0.png)
+- *The plot shows that there is a relatively strong relationship between Age and Pregnancies.*
 
-Feel free to customize it further based on your project structure and preferences.
+![Decision Tree](https://github.com/Rui-Huang-dotcom/Diabetes-Analysis/blob/main/image/__results___52_3.png)
+
