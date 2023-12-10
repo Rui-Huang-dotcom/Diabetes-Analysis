@@ -1,7 +1,7 @@
 # Pima Indians Diabetes Database Analytics
 
 ## Overview
-This project involves the analysis of the Pima Indians Diabetes Database sourced from Kaggle. The main tasks include data cleaning, exploration through various visualizations such as histograms, boxplots, and correlation plots to uncover key trends.
+This project involves the analysis of the Pima Indians Diabetes Database sourced from Kaggle. The main tasks include data preprocessing, exploration data analysis through various visualizations such as histograms, boxplots, and data modelling to predict whether or not a patient has diabetes. 
 
 ## Analysis Highlights
 - Cleaned and preprocessed the dataset for effective analysis.
